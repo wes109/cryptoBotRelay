@@ -3,7 +3,7 @@
 CryptoBotRelay is an automated tool that bridges Discord crypto communities with Telegram trading bots. It automatically detects new contract addresses from Discord and relays them to Telegram bots like Bloom or Maestro for instant trading actions.
 
 Example in slow mode:
-![Animation](https://github.com/user-attachments/assets/5314ae0f-a3bc-4b15-985f-cfed4606ec84)
+![Animation](https://github.com/user-attachments/assets/a325d874-b6fd-44cc-b43c-f987f06ec0b8)
 
 
 ## 🚀 Features
